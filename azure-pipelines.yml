@@ -37,7 +37,7 @@ steps:
 - task: oc-cmd@2
   displayName: oc - start s2i build
   inputs:
-    openshiftService: 'opentlc-mgr'
+    openshiftService: 'myocp'
     cmd: 'oc start-build petclinic-s2i-build --from-file="$(Build.Repository.LocalPath)"/target/app.jar -n cicd --follow'
 - task: oc-cmd@2
   displayName: oc - tag DEV
