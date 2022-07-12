@@ -2,7 +2,7 @@
 
 ## CodeReady Workspaces
 
-[Open in CodeReady Workspaces](<crw url>/f?url=https://github.com/pittar/spring-petclinic)
+[Open in CodeReady Workspaces](https://devspaces-openshift-devspaces.apps.sno.myocp.net/#https://github.com/masauve/spring-petclinic)
 
 ## Pet Clinic
 
